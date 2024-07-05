@@ -10,13 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "ChaosVehiclesPlugin",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
